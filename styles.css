@@ -9,7 +9,7 @@ a {
 }
 
 html {
-    /*vari·veis*/
+    /*vari√°veis*/
     --bg-color: #edf2ff;
     --text-color: #00082f;
     --primary-color: #4263eb;
@@ -97,6 +97,10 @@ ul li a i {
 /* pseudo-class */
 ul li a:hover {
     background: var(--primary-color-dark);
+}
+
+li{
+    padding-inline: 12px;
 }
 
 footer {
